@@ -1,0 +1,5 @@
+com\allroot\service\UserService.class
+com\allroot\pojo\User.class
+com\allroot\mapper\UserMapper.class
+com\allroot\service\impl\UserServiceImpl.class
+com\allroot\controller\UserController.class
